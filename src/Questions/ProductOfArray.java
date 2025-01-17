@@ -14,7 +14,6 @@ public class ProductOfArray {
 
         //Taking input from user
         int i = 0;
-        int Sum = 0;
         while (i < N) {
             S[i] = sc.nextInt();
             i++;

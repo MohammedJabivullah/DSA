@@ -14,7 +14,6 @@ public class MaxMin {
 
         //Sum of Array Elements
         int i = 0;
-        int Sum = 0;
         while(i<N){
             S[i] = sc.nextInt();
             i++;
