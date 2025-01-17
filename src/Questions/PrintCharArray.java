@@ -6,7 +6,7 @@ public class PrintCharArray {
 
     public static void main(String[] args) {
 
-        char C[] = {'H', 'E', 'L', 'L', 'O','!'};
+        char[] C = {'H', 'E', 'L', 'L', 'O','!'};
 
         int i = 0;
         int leng = C.length;

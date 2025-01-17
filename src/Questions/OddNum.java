@@ -9,7 +9,7 @@ public class OddNum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
-        int A[] = new int[N];
+        int[] A = new int[N];
 
         int i = 0;
         while(i<N){

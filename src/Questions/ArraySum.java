@@ -10,7 +10,7 @@ public class ArraySum {
 
         // we are taking array size from user N
         int N = sc.nextInt();
-        int S[] = new int[N];
+        int[] S = new int[N];
 
         //Sum of Array Elements
         int i = 0;
