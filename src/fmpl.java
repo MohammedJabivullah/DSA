@@ -1,2 +1,5 @@
-public class fmpl {
+public class fmpl gii{
+    public static void main(String[] args) {
+        System.out.println("Hi");
+    }
 }
